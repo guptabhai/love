@@ -1,7 +1,3 @@
-alert('Hi Meet');
-
-
-
 
 var love = setInterval(function(){
     var r_num = Math.floor(Math.random() * 40) + 1;
